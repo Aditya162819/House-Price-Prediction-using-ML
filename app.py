@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 import pickle
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
